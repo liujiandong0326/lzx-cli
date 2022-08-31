@@ -13,8 +13,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "commander": "^9.4.0",
-    "inquirer": "^8.2.4"
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.4",
+    "ora": "^5.4.1"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
